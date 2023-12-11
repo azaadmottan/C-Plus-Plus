@@ -1,0 +1,1 @@
+Here we use ofstream for write in the file

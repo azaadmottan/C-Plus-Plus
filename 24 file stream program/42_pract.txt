@@ -1,0 +1,11 @@
+********     STUDENT DATA      ********
+
+Name: AZAAD MOTTAN
+Roll number: 2107264
+Branch: C.S.E
+Course: B.TECH
+
+Name: Sachin 
+Roll number: 21022
+Branch: cse
+Course: btech

@@ -1,0 +1,32 @@
+# Information Detail of student 1
+
+Name: Azaad Mottan
+Roll number: 2107264
+Course: B.tech
+Branch: C.S.E
+Semester: 3rd
+
+# Information Detail of student 2
+
+Name: Sachin kumar
+Roll number: 2107264
+Course: B.tech
+Branch: C.S.E
+Semester: 4th
+
+# Information Detail of student 1
+
+Name: Azaad
+Roll number: 21072
+Course: btech
+Branch: cse
+Semester: 3rd
+
+# Information Detail of student 2
+
+Name: sachin
+Roll number: 21072
+Course: btech
+Branch: cse
+Semester: 4th
+
